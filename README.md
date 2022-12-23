@@ -9,3 +9,12 @@ Projeto realizado no Curso do Nelio alves sobre Java POO
 * Implementar operações de CRUD
 * Implementar associações entre objetos
 * Realizar consultas com Spring Data e MongoRepository
+
+# Tecnologias utilizadas
+
+## Back end
+* Java
+* Spring Boot
+* MongoDB
+* Maven
+* postman
